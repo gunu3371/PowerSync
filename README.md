@@ -12,7 +12,7 @@ https://github.com/gunu3371/m1s_ups_control 이 레포지토리와 함께작동�
   + ```systemctl status powersync``` 로 상태확인
   + ```/etc/powersync/log/``` 에서 로그확인
 ## EN
-Python script for low-cost UPS without communication function with server/computer, such as APC BE400
+Python script for low-cost UPS without communication function with server/computer, such as APC BE400\n
 https://github.com/gunu3371/m1s_ups_control works with this repository
 + ### Features
   + Determine power status using broadcasted data and ping
