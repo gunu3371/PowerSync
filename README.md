@@ -1,7 +1,7 @@
 # PowerSync
 ## KR
 APC 사의BE400 같은 서버/컴퓨터와 통신기능이 없는 저가형 UPS를위한 파이선 스크립트
-https://github.com/gunu3371/m1s_ups_control 이 레포지토리의 기능을 활용합니다
+https://github.com/gunu3371/m1s_ups_control 이 레포지토리와 함께작동합니다
 + ### 기능
   + 브로드캐스팅된 데이터및 핑를 이용하여 전원상태 판단
   + 전원상태를 로그에 저장
@@ -13,7 +13,7 @@ https://github.com/gunu3371/m1s_ups_control 이 레포지토리의 기능을 활
   + ```/etc/powersync/log/``` 에서 로그확인
 ## EN
 Python script for low-cost UPS without communication function with server/computer, such as APC BE400
-https://github.com/gunu3371/m1s_ups_control Take advantage of the features of this repository
+https://github.com/gunu3371/m1s_ups_control works with this repository
 + ### Features
   + Determine power status using broadcasted data and ping
   + Save power status in log
