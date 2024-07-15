@@ -18,7 +18,7 @@ https://github.com/gunu3371/m1s_ups_control Take advantage of the features of th
   + Determine power status using broadcasted data and ping
   + Save power status in log
 + ### Installation method
-  + 1. Run git clone https://github.com/gunu3371/PowerSync.git```
+  + 1. Run ```git clone https://github.com/gunu3371/PowerSync.git```
   + 2. Run ```sh install_service.sh```
 + ### How to use
   + Check status with ```systemctl status powersync```
